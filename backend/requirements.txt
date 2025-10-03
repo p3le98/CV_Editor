@@ -1,0 +1,11 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+spacy==3.7.2
+pydantic==1.8.2
+pdfplumber==0.10.2
+pyPDF2==3.0.1
+
+# Download spaCy models
+# Run these commands after installing requirements:
+# python -m spacy download en_core_web_lg
+# python -m spacy download de_core_news_lg
