@@ -1,4 +1,4 @@
-const DEEPSEEK_API_KEY = "sk-79289650adf844d495ebf6191b11e69e";
+const DEEPSEEK_API_KEY = "YOUR_API_KEY";
 const DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions";
 
 interface LLMResponse {
